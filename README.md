@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul
-- 👀 I’m passionate about clean, crisp and testable Code
+- 👀 I’m passionate about clean, lucid and testable code
 - 📫 How to reach me ...You have found me already
 
 <!---
